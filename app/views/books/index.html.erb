@@ -1,7 +1,9 @@
 <p style="color: green">
   <%= notice %>
 </p>
-<h1>Books</h1>
+<h1>
+  <%= t('book.notice.books') %>
+</h1>
 <div id="books" class="index-items">
   <% @books.each do |book| %>
     <div class="index-item">

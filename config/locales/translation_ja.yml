@@ -9,6 +9,7 @@ ja:
       edit_this_book: この本を編集
       destroy_this_book: この本を削除
       new_book: 新しい本を登録
+      books: 本一覧    
 
   activerecord:
     models:
