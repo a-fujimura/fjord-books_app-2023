@@ -2,6 +2,6 @@
 <%= render "form" , book: @book %>
   <br>
   <nav class="page-nav">
-    <%= link_to t('book.notice.show_this_book') , @book %> |
-      <%= link_to t('book.notice.back_to_books') , books_path %>
+    <%= link_to Book.human_attribute_name("show_this_book") , @book %> |
+      <%= link_to Book.human_attribute_name("back_to_books") , books_path %>
   </nav>
