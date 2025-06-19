@@ -1,5 +1,5 @@
 <h1>
-  <%= Book.human_attribute_name("editing_book") %>
+  <%= t('editing_book', model: Book.model_name.human(count: 1)) %>
 </h1>
 <%= render "form" , book: @book %>
   <br>
