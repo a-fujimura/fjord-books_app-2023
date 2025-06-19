@@ -3,7 +3,7 @@ ja:
     models:
       book:
         one: 本  #g
-        other: 本棚
+        other: 本一覧
 
     attributes:
       book:
