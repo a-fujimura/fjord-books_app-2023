@@ -2,5 +2,5 @@
 <%= render "form" , book: @book %>
   <br>
   <nav class="page-nav">
-    <%= link_to Book.human_attribute_name("back_to_books") , books_path %>
+    <%= link_to t('back_to_books', model: Book.model_name.human(count: 1)) , books_path %>
   </nav>

@@ -1,0 +1,11 @@
+ja:
+  updated: "%{model}の更新が完了しました"
+  created: "%{model}の登録が完了しました"
+  destroyed: "%{model}の削除が完了しました"
+  show_this_book: "この%{model}を表示"
+  back_to_books: "%{model}の一覧に戻る"
+  edit_this_book: "この%{model}を編集"
+  destroy_this_book: "この%{model}を削除"
+  new_book: "新しい%{model}を登録"
+  books: "%{model}一覧" 
+  editing_book: "%{model}編集"
