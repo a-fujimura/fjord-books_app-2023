@@ -1,0 +1,5 @@
+ja:
+  updated: "%{model}の更新が完了しました"
+  created: "%{model}の登録が完了しました"
+  destroyed: "%{model}の削除が完了しました"
+  books: "%{model}一覧" 

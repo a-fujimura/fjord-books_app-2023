@@ -1,0 +1,5 @@
+en:
+  updated: "%{model} was successfully updated"
+  created: "%{model} was successfully created"
+  destroyed: "%{model} was successfully deleted"
+  books: "%{model} list"

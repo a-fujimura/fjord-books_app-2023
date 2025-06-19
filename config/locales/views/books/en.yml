@@ -1,0 +1,16 @@
+en:
+  books:
+    index:
+      show_this_book: "Show this %{model}"
+      new_book: "Register a new %{model}"
+    new:
+      back_to_books: "Back to %{model} list"
+    edit:
+      show_this_book: "Show this %{model}"
+      back_to_books: "Back to %{model} list"
+      editing_book: "Edit %{model}"
+    show:
+      edit_this_book: "Edit this %{model}"
+      back_to_books: "Back to %{model} list"
+      destroy_this_book: "Delete this %{model}"
+
