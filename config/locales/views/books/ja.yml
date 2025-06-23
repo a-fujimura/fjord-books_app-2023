@@ -1,15 +1,15 @@
 ja:
   books:
     index:
-      show_this_book: "この%{model}を表示"
-      new_book: "新しい%{model}を登録"
+      show_this_book: "この本を表示"
+      new_book: "新しい本を登録"
     new:
-      back_to_books: "%{model}の一覧に戻る"
+      back_to_books: "本の一覧に戻る"
     edit:
-      show_this_book: "この%{model}を表示"
-      back_to_books: "%{model}の一覧に戻る"
-      editing_book: "%{model}編集"
+      show_this_book: "この本を表示"
+      back_to_books: "本の一覧に戻る"
+      editing_book: "本編集"
     show:
-      edit_this_book: "この%{model}を編集"
-      back_to_books: "%{model}の一覧に戻る"
-      destroy_this_book: "この%{model}を削除"
+      edit_this_book: "この本を編集"
+      back_to_books: "本の一覧に戻る"
+      destroy_this_book: "この本を削除"

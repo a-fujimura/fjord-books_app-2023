@@ -1,16 +1,16 @@
 en:
   books:
     index:
-      show_this_book: "Show this %{model}"
-      new_book: "Register a new %{model}"
+      show_this_book: "Show this book"
+      new_book: "Register a new book"
     new:
-      back_to_books: "Back to %{model} list"
+      back_to_books: "Back to book list"
     edit:
-      show_this_book: "Show this %{model}"
-      back_to_books: "Back to %{model} list"
-      editing_book: "Edit %{model}"
+      show_this_book: "Show this book"
+      back_to_books: "Back to book list"
+      editing_book: "Edit book"
     show:
-      edit_this_book: "Edit this %{model}"
-      back_to_books: "Back to %{model} list"
-      destroy_this_book: "Delete this %{model}"
+      edit_this_book: "Edit this book"
+      back_to_books: "Back to book list"
+      destroy_this_book: "Delete this book"
 
