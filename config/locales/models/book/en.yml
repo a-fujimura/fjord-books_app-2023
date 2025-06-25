@@ -1,0 +1,14 @@
+en:
+  activerecord:
+    models:
+      book:
+        one: book  #g
+        other: books
+
+    attributes:
+      book:
+        author: author  #g
+        memo: memo  #g
+        picture: picture  #g
+        title: title  #g
+

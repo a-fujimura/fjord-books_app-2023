@@ -1,0 +1,17 @@
+en:
+  books:
+    index:
+      show_this_book: "Show this book"
+      new_book: "Register a new book"
+    new:
+      new_book: "New book"
+      back_to_books: "Back to book list"
+    edit:
+      show_this_book: "Show this book"
+      back_to_books: "Back to book list"
+      editing_book: "Edit book"
+    show:
+      edit_this_book: "Edit this book"
+      back_to_books: "Back to book list"
+      destroy_this_book: "Delete this book"
+
