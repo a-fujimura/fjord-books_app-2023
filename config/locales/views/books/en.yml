@@ -4,6 +4,7 @@ en:
       show_this_book: "Show this book"
       new_book: "Register a new book"
     new:
+      new_book: "New book"
       back_to_books: "Back to book list"
     edit:
       show_this_book: "Show this book"

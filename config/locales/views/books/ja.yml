@@ -4,6 +4,7 @@ ja:
       show_this_book: "この本を表示"
       new_book: "新しい本を登録"
     new:
+      new_book: "新しい本"
       back_to_books: "本の一覧に戻る"
     edit:
       show_this_book: "この本を表示"
